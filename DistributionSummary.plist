@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FactoryTourApp.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>0</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>43B9952B1AFE3C27A2A7572D0F677625844593CF</string>
+				<key>dateExpires</key>
+				<string>2027/03/30</string>
+				<key>type</key>
+				<string>Cloud Managed Apple Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>UW8QHPKACU.RMGT.FactoryTourApp</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>UW8QHPKACU</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>FactoryTourApp.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>7bb22424-5dc0-41b5-a7d3-b356c626426e</string>
+				<key>dateExpires</key>
+				<string>2027/03/30</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: RMGT.FactoryTourApp</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>UW8QHPKACU</string>
+				<key>name</key>
+				<string>MOEMI ODA</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
